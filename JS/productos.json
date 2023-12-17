@@ -1,0 +1,237 @@
+[
+    {
+        "id": "buso-01",
+        "titulo": "Mix Pastel",
+        "imagen": "./img/busos/buso1.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-02",
+        "titulo": "Batick B&W",
+        "imagen": "./img/busos/buso2.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-03",
+        "titulo": "Bad Bear",
+        "imagen": "./img/busos/buso3.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-04",
+        "titulo": "Batick P&L",
+        "imagen": "./img/busos/buso4.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-05",
+        "titulo": "I Got the fire",
+        "imagen": "./img/busos/buso5.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-06",
+        "titulo": "Butterfly Universe",
+        "imagen": "./img/busos/buso6.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-07",
+        "titulo": "Univerdity",
+        "imagen": "./img/busos/buso7.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "buso-08",
+        "titulo": "Have a good day",
+        "imagen": "./img/busos/buso8.jpeg",
+        "categoria": {
+            "nombre": "Busos",
+            "id": "busos"
+        },
+        "precio": 10000
+    },
+
+
+    {
+        "id": "remera-01",
+        "titulo": "Lola pink",
+        "imagen": "./img/remeras/remera1.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Tom&Jerry",
+        "imagen": "./img/remeras/remera2.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Daisy",
+        "imagen": "./img/remeras/remera3.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Fallen Angel",
+        "imagen": "./img/remeras/remera4.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-05",
+        "titulo": "Crazy bear",
+        "imagen": "./img/remeras/remera5.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-06",
+        "titulo": "Psyco shirt",
+        "imagen": "./img/remeras/remera6.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-07",
+        "titulo": "Calaca",
+        "imagen": "./img/remeras/remera7.jpeg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+
+
+
+    {
+        "id": "pantalon-01",
+        "titulo": "Minimalist",
+        "imagen": "./img/pantalones/pantalon1.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "babucha all day",
+        "imagen": "./img/pantalones/pantalon2.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "chupin dibus",
+        "imagen": "./img/pantalones/pantalon3.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "chupin dibus",
+        "imagen": "./img/pantalones/pantalon4.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Mistic witch",
+        "imagen": "./img/pantalones/pantalon5.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Breaking Bad",
+        "imagen": "./img/pantalones/pantalon6.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Oversize",
+        "imagen": "./img/pantalones/pantalon7.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Chill",
+        "imagen": "./img/pantalones/pantalon8.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    }
+]
