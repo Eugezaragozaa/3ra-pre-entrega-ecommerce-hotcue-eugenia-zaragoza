@@ -1,81 +1,81 @@
 [
     {
-        "id": "buso-01",
+        "id": "buzo-01",
         "titulo": "Mix Pastel",
-        "imagen": "./img/busos/buso1.jpeg",
+        "imagen": "./img/buzos/buzo1.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-02",
+        "id": "buzo-02",
         "titulo": "Batick B&W",
-        "imagen": "./img/busos/buso2.jpeg",
+        "imagen": "./img/buzos/buzo2.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-03",
+        "id": "buzo-03",
         "titulo": "Bad Bear",
-        "imagen": "./img/busos/buso3.jpeg",
+        "imagen": "./img/buzos/buzo3.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-04",
+        "id": "buzo-04",
         "titulo": "Batick P&L",
-        "imagen": "./img/busos/buso4.jpeg",
+        "imagen": "./img/buzos/buzo4.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-05",
+        "id": "buzo-05",
         "titulo": "I Got the fire",
-        "imagen": "./img/busos/buso5.jpeg",
+        "imagen": "./img/buzos/buzo5.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-06",
+        "id": "buzo-06",
         "titulo": "Butterfly Universe",
-        "imagen": "./img/busos/buso6.jpeg",
+        "imagen": "./img/buzos/buzo6.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-07",
+        "id": "buzo-07",
         "titulo": "Univerdity",
-        "imagen": "./img/busos/buso7.jpeg",
+        "imagen": "./img/buzos/buzo7.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
     {
-        "id": "buso-08",
+        "id": "buzo-08",
         "titulo": "Have a good day",
-        "imagen": "./img/busos/buso8.jpeg",
+        "imagen": "./img/buzos/buzo8.jpeg",
         "categoria": {
-            "nombre": "Busos",
-            "id": "busos"
+            "nombre": "Buzos",
+            "id": "buzos"
         },
         "precio": 10000
     },
